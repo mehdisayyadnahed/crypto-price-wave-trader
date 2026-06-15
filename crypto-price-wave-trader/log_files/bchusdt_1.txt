@@ -1,0 +1,25 @@
+
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:58:40
+Price in Global & Target: 309.64, 310.21
+USDT Balance: 5
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:58:47
+Price in Global & Target: 309.62, 310.4
+USDT Balance: 5
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:58:54
+Price in Global & Target: 309.59666666, 310.06
+USDT Balance: 5
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:59:01
+Price in Global & Target: 309.58666666, 310.05
+USDT Balance: 5
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:59:07
+Price in Global & Target: 309.58666666, 309.89
+USDT Balance: 5
+============================================================
+BCHUSDT Check Time: 2025-03-01 23:59:14
+Price in Global & Target: 309.47666666, 309.88
+USDT Balance: 5

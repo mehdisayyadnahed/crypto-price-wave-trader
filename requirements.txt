@@ -1,0 +1,5 @@
+# Main external HTTP library used for exchange API requests
+requests>=2.28.0
+
+# Optional timezone compatibility fallback for Python versions older than 3.9
+backports.zoneinfo; python_version < "3.9"
